@@ -1,4 +1,4 @@
-FROM node:16
+FROM node:18
 # use node 16 image
 
 WORKDIR /usr/src/app # set the working directory
